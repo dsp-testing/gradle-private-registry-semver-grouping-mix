@@ -8,9 +8,9 @@ updates:
     registries:
       - jfrog-artifactory
     groups:
-      common:
-        patterns:
-          - "commons*"
+      # common:
+      #   patterns:
+      #     - "commons*"
       major:
         update-types:
           - "major"
